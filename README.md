@@ -1,1 +1,2 @@
 # College-Query-Chatbot
+Higher Education Guidance Assistance” which is basically a Online Application which will help you to guide students for higher education. Rivot can easily enable users to reach and address the queries of the students. They also make it easier for you to share feedback in an interactive and engaging way The objective of this project is to build an online web based application using all the skills and techniques from Machine learning and Artificial Intelligence.
